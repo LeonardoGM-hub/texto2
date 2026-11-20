@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Ejercicio 1 - Claves</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Generador de Claves</h2>

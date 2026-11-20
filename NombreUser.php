@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Ejercicio 2 - Usuarios</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Generador de Nombres de Usuario</h2>
@@ -28,7 +29,7 @@
         $limpia = trim($institucion);
         return substr($limpia, 0, 2);
     }
-    
+
     function obtenerAnio($anio) {
         $limpio = trim($anio);
         return substr($limpio, 2, 2);
